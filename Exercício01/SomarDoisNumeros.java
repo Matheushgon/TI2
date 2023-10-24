@@ -18,4 +18,5 @@ public static void main (String args[]){
 	//Mostrar na tela
 	System.out.println("Soma:" + soma);
 	}
+	//teste24-10
 }
